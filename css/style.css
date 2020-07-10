@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+body {
+	background-image: url("../img/bg.png");
+	background-repeat: repeat;
+}
+
+.jumbotron, .navbar, .container {
+	font-family: 'Roboto Slab', serif;
+}
+
+.size-45 {
+	font-size: 45px;
+}
+
+.size-30 {
+	font-size: 30px;
+}
+
+.size-20 {
+	font-size: 20px;
+}
+
+.size-18 {
+	font-size: 18px;
+}
+
+.top-100 {
+	margin-top: 100px;
+}
+
+.top-30 {
+	margin-top: 30px;
+}
+
+.top-60 {
+	margin-top: 60px;
+}
+
+.bot-10 {
+	margin-bottom: 10px;
+}
+
+.project-list {
+	min-height: 400px;
+}
+
+.footer {
+	min-height: 200px;
+	color: #ffff;
+}
